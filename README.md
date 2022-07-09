@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmarsyad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C++, C# and Javascript
 
 <!---
 mmarsyad/mmarsyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
